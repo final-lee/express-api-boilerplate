@@ -1,0 +1,14 @@
+{
+  "api" : {
+    "port" : 3000,
+    "secretKey" : ""
+  },
+
+  "mongodb" : {
+    "host" : "localhost",
+    "port" : "27017",
+    "username" : "",
+    "password" : "",
+    "database" : "mycooldatabase"
+  }
+}
